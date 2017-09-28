@@ -1,0 +1,32 @@
+# Project: SolarSystem
+# Makefile created by Dev-C++ 5.4.1
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = main.o imageloader.o
+LINKOBJ  = main.o imageloader.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW32/lib" -L"C:/Program Files (x86)/SDL-1.2.15/lib" -static-libstdc++ -static-libgcc -lopengl32 -lglu32 -lglut32 -lwinmm 
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW32/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW32/include"
+BIN      = SolarSystem.exe
+CXXFLAGS = $(CXXINCS) -lglu32 -lglut32 -lopengl32 -lwinmm
+CFLAGS   = $(INCS) -lglu32 -lglut32 -lopengl32 -lwinmm
+RM       = rm -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+imageloader.o: imageloader.cpp
+	$(CPP) -c imageloader.cpp -o imageloader.o $(CXXFLAGS)
