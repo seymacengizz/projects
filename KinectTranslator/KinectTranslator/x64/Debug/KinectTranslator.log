@@ -1,0 +1,23 @@
+﻿Build started 22.5.2016 15:01:17.
+     1>Project "C:\Users\Asus\Desktop\Kinect_SVM\KinectTranslator\KinectTranslator\KinectTranslator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /IC:\opencv\build\include\opencv2 /IC:\opencv\build\include\opencv /I"C:\Program Files\Microsoft SDKs\Kinect\v2.0_1409\inc" /Zi /nologo /W3 /WX- /sdl /Od /D "WIN32" /D _DEBUG /D _CONSOLE /D "_LIB" /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\KinectTranslator.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt KinectTranslator.cpp
+         KinectTranslator.cpp
+     1>KinectTranslator.cpp(1): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>KinectTranslator.cpp(2): warning C4627: '#include <sstream>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>KinectTranslator.cpp(3): warning C4627: '#include <string>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>KinectTranslator.cpp(4): warning C4627: '#include <Kinect.h>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>KinectTranslator.cpp(5): warning C4627: '#include <opencv2\opencv.hpp>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>KinectTranslator.cpp(6): warning C4627: '#include "ComPtr.h"': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>KinectTranslator.cpp(348): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "C:\Users\Asus\Desktop\Kinect_SVM\KinectTranslator\KinectTranslator\KinectTranslator.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10
