@@ -1,0 +1,26 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  E:\şeyma\_Yüksek Lisans\image_transpose\image_transpose>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\nvcc.exe" -gencode=arch=compute_30,code=\"sm_30,compute_30\" --use-local-env --cl-version 2013 -ccbin "C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64"  -I"E:\şeyma\_Lisans\4.Sınıf\4.Sınıf I Dönem\a.Programlar 4.sınıf I.dönem\opencv\build\include\opencv2" -I"E:\şeyma\_Lisans\4.Sınıf\4.Sınıf I Dönem\a.Programlar 4.sınıf I.dönem\opencv\build\include\opencv" -I"E:\şeyma\_Lisans\4.Sınıf\4.Sınıf I Dönem\a.Programlar 4.sınıf I.dönem\opencv\build\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\include"  -G   --keep-dir x64\Debug -maxrregcount=0  --machine 64 --compile -cudart static  -g   -D"WIN32" -D"WIN64" -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -o x64\Debug\kernel.cu.obj "E:\şeyma\_Yüksek Lisans\image_transpose\image_transpose\kernel.cu" 
+E:\■eyma\_Lisans\4.S²n²f\4.S²n²f I D÷nem\a.Programlar 4.s²n²f I.d÷nem\opencv\build\include\opencv2/ml/ml.hpp(955): warning : overloaded virtual function "CvDTree::train" is only partially overridden in class "CvForestTree"
+E:\■eyma\_Lisans\4.S²n²f\4.S²n²f I D÷nem\a.Programlar 4.s²n²f I.d÷nem\opencv\build\include\opencv2/ml/ml.hpp(1143): warning : overloaded virtual function "CvDTree::train" is only partially overridden in class "CvBoostTree"
+E:/■eyma/_Y³ksek Lisans/image_transpose/image_transpose/kernel.cu(143): warning : variable "FullFileName" was declared but never referenced
+E:/■eyma/_Y³ksek Lisans/image_transpose/image_transpose/kernel.cu(147): warning : variable "FileNum" was declared but never referenced
+E:/■eyma/_Y³ksek Lisans/image_transpose/image_transpose/kernel.cu(154): warning : variable "data" was declared but never referenced
+E:\■eyma\_Lisans\4.S²n²f\4.S²n²f I D÷nem\a.Programlar 4.s²n²f I.d÷nem\opencv\build\include\opencv2/core/affine.hpp(280): warning : controlling expression is constant
+E:\■eyma\_Lisans\4.S²n²f\4.S²n²f I D÷nem\a.Programlar 4.s²n²f I.d÷nem\opencv\build\include\opencv2/ml/ml.hpp(955): warning : overloaded virtual function "CvDTree::train" is only partially overridden in class "CvForestTree"
+E:\■eyma\_Lisans\4.S²n²f\4.S²n²f I D÷nem\a.Programlar 4.s²n²f I.d÷nem\opencv\build\include\opencv2/ml/ml.hpp(1143): warning : overloaded virtual function "CvDTree::train" is only partially overridden in class "CvBoostTree"
+E:/■eyma/_Y³ksek Lisans/image_transpose/image_transpose/kernel.cu(143): warning : variable "FullFileName" was declared but never referenced
+E:/■eyma/_Y³ksek Lisans/image_transpose/image_transpose/kernel.cu(147): warning : variable "FileNum" was declared but never referenced
+E:/■eyma/_Y³ksek Lisans/image_transpose/image_transpose/kernel.cu(154): warning : variable "data" was declared but never referenced
+  kernel.cu
+E:/şeyma/_Yüksek Lisans/image_transpose/image_transpose/kernel.cu(241): warning C4244: 'argument' : conversion from 'float' to 'uchar', possible loss of data
+E:/şeyma/_Yüksek Lisans/image_transpose/image_transpose/kernel.cu(257): warning C4244: 'argument' : conversion from 'float' to 'uchar', possible loss of data
+E:/şeyma/_Yüksek Lisans/image_transpose/image_transpose/kernel.cu(279): warning C4244: 'argument' : conversion from 'float' to 'uchar', possible loss of data
+E:/şeyma/_Yüksek Lisans/image_transpose/image_transpose/kernel.cu(298): warning C4244: 'argument' : conversion from 'float' to 'uchar', possible loss of data
+E:/şeyma/_Yüksek Lisans/image_transpose/image_transpose/kernel.cu(314): warning C4244: 'argument' : conversion from 'float' to 'uchar', possible loss of data
+E:/şeyma/_Yüksek Lisans/image_transpose/image_transpose/kernel.cu(143): warning C4101: 'FullFileName' : unreferenced local variable
+  image_transpose.vcxproj -> E:\şeyma\_Yüksek Lisans\image_transpose\x64\Debug\image_transpose.exe
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "E:\şeyma\_Yüksek Lisans\image_transpose\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
