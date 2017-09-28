@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 13.75, 8.5" name="OnergeDB">
+  <DataContextMoniker Name="/OnergeDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="aaa1935e-df9c-4c87-91e3-37e521f18aad" absoluteBounds="7.25, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/OnergeDBDataContext/Kullanicilar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="91c2d473-c863-42e1-b6eb-e47e79c9268c" absoluteBounds="7.2650000000000006, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="31991147-0339-4130-8a6b-beab56b5d8dc" absoluteBounds="9.125, 5.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/OnergeDBDataContext/GKurum" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bd4a6c9c-0f06-470d-9995-476d94b56d7c" absoluteBounds="9.14, 5.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3dc71397-77f9-433b-9222-52b3c27582af" absoluteBounds="0.5, 5.375, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/OnergeDBDataContext/Durum" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f25d9a17-57cd-4545-acb2-6f51b5a414ce" absoluteBounds="0.51500000000000012, 5.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0ae2aca4-29e9-4b02-b9fe-9e53ce788bd6" absoluteBounds="5, 1.25, 2, 1.9631982421875">
+      <DataClassMoniker Name="/OnergeDBDataContext/Mesaj" />
+      <nestedChildShapes>
+        <elementListCompartment Id="27c4f18c-4ca1-43f6-9bbc-1088d728093c" absoluteBounds="5.015, 1.71, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e9c38432-c531-418e-8c1d-54afa839f371" absoluteBounds="0.5, 4, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/OnergeDBDataContext/Kurum" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f4ca364d-d52b-4b0d-b53e-3782d643cc9a" absoluteBounds="0.51500000000000012, 4.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 4.28125); (4.79166666666667 : 4.28125 : JumpStart); (4.95833333333333 : 4.28125 : JumpEnd); (7.04166666666667 : 4.28125 : JumpStart); (7.20833333333333 : 4.28125 : JumpEnd); (8.84375 : 4.28125); (8.84375 : 2.90549967447917)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Kurum/Kurum_Kullanicilar" />
+      <nodes>
+        <classShapeMoniker Id="e9c38432-c531-418e-8c1d-54afa839f371" />
+        <classShapeMoniker Id="aaa1935e-df9c-4c87-91e3-37e521f18aad" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 4.1093725); (4.79166666666667 : 4.1093725 : JumpStart); (4.95833333333333 : 4.1093725 : JumpEnd); (5.8125 : 4.1093725); (5.8125 : 3.2131982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Kurum/Kurum_Mesaj" />
+      <nodes>
+        <classShapeMoniker Id="e9c38432-c531-418e-8c1d-54afa839f371" />
+        <classShapeMoniker Id="0ae2aca4-29e9-4b02-b9fe-9e53ce788bd6" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="f091b9f1-98cd-4b80-8964-04afad38d1f3" absoluteBounds="0.5, 0.5, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/OnergeDBDataContext/Yöneticiler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b9bda023-2dc0-4020-867d-d32defedc6c7" absoluteBounds="0.515, 0.96, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(1.5 : 4); (1.5 : 2.65549967447917)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/OnergeDBDataContext/Kurum/Kurum_Yöneticiler" />
+      <nodes>
+        <classShapeMoniker Id="e9c38432-c531-418e-8c1d-54afa839f371" />
+        <classShapeMoniker Id="f091b9f1-98cd-4b80-8964-04afad38d1f3" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="9ae583c8-e01b-4246-acc3-9c3b0c52d42c" absoluteBounds="2.75, 1.75, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/OnergeDBDataContext/OnergeTuru" />
+      <nestedChildShapes>
+        <elementListCompartment Id="704ec685-a6e6-4617-8833-77af31ce913f" absoluteBounds="2.765, 2.2100000000000009, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f509af26-c3a9-460c-92b4-9550adfe5345" absoluteBounds="11.5, 3.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/OnergeDBDataContext/OnergeKonuGrupları" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3f5d5823-eb67-4a67-8552-816b3541ba04" absoluteBounds="11.515, 3.5850000000000009, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="55d164f5-778a-47c5-bc5d-6922c4a59ebf" absoluteBounds="3.25, 4.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/OnergeDBDataContext/Cevap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="136a9cba-f206-435a-bff6-3d58c8e1da1d" absoluteBounds="3.265, 5.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 4.90949625651042); (3.25 : 4.90949625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Kurum/Kurum_Cevap" />
+      <nodes>
+        <classShapeMoniker Id="e9c38432-c531-418e-8c1d-54afa839f371" />
+        <classShapeMoniker Id="55d164f5-778a-47c5-bc5d-6922c4a59ebf" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="76588b45-c23c-4d56-8884-bc7c8ea61746" absoluteBounds="9.375, 0.625, 2, 4.0785139973958326">
+      <DataClassMoniker Name="/OnergeDBDataContext/Onerge" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a477e3f9-505d-4c23-a148-6905a6d32d36" absoluteBounds="9.39, 1.0850000000000009, 1.9700000000000002, 3.518513997395833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(9.375 : 3.09059895833333); (8.92708333333333 : 3.09059895833333 : JumpStart); (8.76041666666667 : 3.09059895833333 : JumpEnd); (7 : 3.09059895833333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Onerge/Onerge_Mesaj" />
+      <nodes>
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+        <classShapeMoniker Id="0ae2aca4-29e9-4b02-b9fe-9e53ce788bd6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.375 : 3.83210504435221); (8.92708333333333 : 3.83210504435221 : JumpStart); (8.76041666666667 : 3.83210504435221 : JumpEnd); (5.89583333333333 : 3.83210504435221 : JumpStart); (5.72916666666667 : 3.83210504435221 : JumpEnd); (4.875 : 3.83210504435221); (4.875 : 4.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Onerge/Onerge_Cevap" />
+      <nodes>
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+        <classShapeMoniker Id="55d164f5-778a-47c5-bc5d-6922c4a59ebf" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 6.53774251302083); (11.28125 : 6.53774251302083); (11.28125 : 4.70351399739583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Durum/Durum_Onerge" />
+      <nodes>
+        <classShapeMoniker Id="3dc71397-77f9-433b-9222-52b3c27582af" />
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.25 : 5.25); (10.25 : 4.70351399739583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/GKurum/GKurum_Onerge" />
+      <nodes>
+        <classShapeMoniker Id="31991147-0339-4130-8a6b-beab56b5d8dc" />
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.5 : 4.421875); (4.79166666666667 : 4.421875 : JumpStart); (4.95833333333333 : 4.421875 : JumpEnd); (7.04166666666667 : 4.421875 : JumpStart); (7.20833333333333 : 4.421875 : JumpEnd); (9.375 : 4.421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Kurum/Kurum_Onerge" />
+      <nodes>
+        <classShapeMoniker Id="e9c38432-c531-418e-8c1d-54afa839f371" />
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.5 : 3.81814697265625); (11.375 : 3.81814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/OnergeKonuGrupları/OnergeKonuGrupları_Onerge" />
+      <nodes>
+        <classShapeMoniker Id="f509af26-c3a9-460c-92b4-9550adfe5345" />
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.75 : 2.94399251302083); (3.75 : 3.49233258870443); (5.72916666666667 : 3.49233258870443 : JumpStart); (5.89583333333333 : 3.49233258870443 : JumpEnd); (8.76041666666667 : 3.49233258870443 : JumpStart); (8.92708333333333 : 3.49233258870443 : JumpEnd); (9.375 : 3.49233258870443)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/OnergeTuru/OnergeTuru_Onerge" />
+      <nodes>
+        <classShapeMoniker Id="9ae583c8-e01b-4246-acc3-9c3b0c52d42c" />
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="f3d09099-9577-4864-9d20-33a413c6c770" absoluteBounds="11.5, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/OnergeDBDataContext/MilletVekili" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7dc11bf7-e003-4776-8b0e-3d70a9ef845b" absoluteBounds="11.515, 1.2100000000000009, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(11.5 : 1.63544840494792); (11.375 : 1.63544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/MilletVekili/MilletVekili_Onerge" />
+      <nodes>
+        <classShapeMoniker Id="f3d09099-9577-4864-9d20-33a413c6c770" />
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="34aef866-7cef-4795-a210-4ed660b1baa0" absoluteBounds="6.375, 4.625, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/OnergeDBDataContext/MesajAdmin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9a8cdc74-4a31-4f1c-9232-125926d235f6" absoluteBounds="6.39, 5.085, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 4.3906225); (4.79166666666667 : 4.3906225 : JumpStart); (4.95833333333333 : 4.3906225 : JumpEnd); (7.04166666666667 : 4.3906225 : JumpStart); (7.20833333333333 : 4.3906225 : JumpEnd); (7.375 : 4.3906225); (7.375 : 4.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Kurum/Kurum_MesajAdmin" />
+      <nodes>
+        <classShapeMoniker Id="e9c38432-c531-418e-8c1d-54afa839f371" />
+        <classShapeMoniker Id="34aef866-7cef-4795-a210-4ed660b1baa0" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.375 : 4.08793002217611); (8.92708333333333 : 4.08793002217611 : JumpStart); (8.76041666666667 : 4.08793002217611 : JumpEnd); (7.125 : 4.08793002217611); (7.125 : 4.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OnergeDBDataContext/Onerge/Onerge_MesajAdmin" />
+      <nodes>
+        <classShapeMoniker Id="76588b45-c23c-4d56-8884-bc7c8ea61746" />
+        <classShapeMoniker Id="34aef866-7cef-4795-a210-4ed660b1baa0" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

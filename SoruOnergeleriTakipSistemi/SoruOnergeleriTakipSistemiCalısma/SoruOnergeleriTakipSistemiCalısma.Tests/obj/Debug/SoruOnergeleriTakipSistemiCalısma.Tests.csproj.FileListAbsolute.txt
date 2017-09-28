@@ -1,0 +1,91 @@
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll.config
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.pdb
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.pdb
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.pdb
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll.config
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.pdb
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Helpers.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Mvc.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Razor.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.pdb
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Helpers.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Mvc.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Razor.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.csprojResolveAssemblyReference.cache
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.pdb
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll.config
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.pdb
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Helpers.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.WebHost.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Mvc.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Razor.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\SoruOnergeleriTakipSistemiCalısma.pdb
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Helpers.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Http.WebHost.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Mvc.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.Razor.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.csprojResolveAssemblyReference.cache
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma.Tests\obj\Debug\SoruOnergeleriTakipSistemiCalısma.Tests.pdb

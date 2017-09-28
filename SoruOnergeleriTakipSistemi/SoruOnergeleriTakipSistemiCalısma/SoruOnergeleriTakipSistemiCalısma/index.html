@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <script language="Javascript" type="text/javascript" src="Content/jss/jquery-1.4.1.js"></script>
+    <script language="Javascript" type="text/javascript" src="Content/jss/jquery.lwtCountdown-1.0.js"></script>
+    <script language="Javascript" type="text/javascript" src="Content/jss/misc.js"></script>
+    <link rel="Stylesheet" type="text/css" href="style/main.css" /></link>
+
+	<title>test</title>
+</head>
+
+<body>
+
+	<div id="container">
+
+		<h1>UNDER CONSTRUCTION</h1>
+		<h2 class="subtitle">&nbsp;</h2>
+
+		<div id="countdown_dashboard">
+			<div class="dash weeks_dash">
+				<span class="dash_title">hafta</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash days_dash">
+				<span class="dash_title">gün</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash hours_dash">
+				<span class="dash_title">saat</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash minutes_dash">
+				<span class="dash_title">dakika</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+			<div class="dash seconds_dash">
+				<span class="dash_title">saniye</span>
+				<div class="digit">0</div>
+				<div class="digit">0</div>
+			</div>
+
+		</div>
+
+		<div class="dev_comment">
+			MAYA TAKVİMİNİN SON GÜNÜNE KALAN SÜRE :)) 
+		</div>
+
+
+		<script language="javascript" type="text/javascript">
+			jQuery(document).ready(function() {
+				$('#countdown_dashboard').countDown({
+					targetDate: {
+						'day': 		21,// hedef gün 
+						'month': 	12,// hedef ay
+						'year': 	2012,// hedef yıl
+						'hour': 	12,// hedef saat
+						'min': 		0,// hedef dakika
+						'sec': 		1//hedef saniye
+					}
+				});			
+			});
+		</script>
+	</div>
+</body>
+
+</html>

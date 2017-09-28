@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="SorguOnergeleri" Class="OnergeDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=PC-BILGISAYAR\NESLIHAN;Initial Catalog=SorguOnergeleri;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="SorguOnergeleriConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Kullanicilar" Member="Kullanicilars">
+    <Type Name="Kullanicilar">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KullaniciAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Sifre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="KurumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Adi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Soyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Kurum_Kullanicilar" Member="Kurum" ThisKey="KurumID" OtherKey="ID" Type="Kurum" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.GKurum" Member="GKurums">
+    <Type Name="GKurum">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="GeldigiKurumAdi" Type="System.String" DbType="NVarChar(250)" CanBeNull="true" />
+      <Association Name="GKurum_Onerge" Member="Onerges" ThisKey="ID" OtherKey="GeldigiKurumID" Type="Onerge" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Durum" Member="Durums">
+    <Type Name="Durum">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Durum" Member="Durum1" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Association Name="Durum_Onerge" Member="Onerges" ThisKey="ID" OtherKey="durumID" Type="Onerge" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Mesaj" Member="Mesajs">
+    <Type Name="Mesaj">
+      <Column Name="IDM" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="mesajKonusu" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="kurumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="onergeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="kullaniciID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="okunma" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Kurum_Mesaj" Member="Kurum" ThisKey="kurumID" OtherKey="ID" Type="Kurum" IsForeignKey="true" />
+      <Association Name="Onerge_Mesaj" Member="Onerge" ThisKey="onergeID" OtherKey="ID" Type="Onerge" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Kurum" Member="Kurums">
+    <Type Name="Kurum">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="KurumAd" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Kurum_Kullanicilar" Member="Kullanicilars" ThisKey="ID" OtherKey="KurumID" Type="Kullanicilar" />
+      <Association Name="Kurum_Mesaj" Member="Mesajs" ThisKey="ID" OtherKey="kurumID" Type="Mesaj" />
+      <Association Name="Kurum_Yöneticiler" Member="Yöneticilers" ThisKey="ID" OtherKey="KurumID" Type="Yöneticiler" />
+      <Association Name="Kurum_Cevap" Member="Cevaps" ThisKey="ID" OtherKey="kurumID" Type="Cevap" />
+      <Association Name="Kurum_Onerge" Member="Onerges" ThisKey="ID" OtherKey="kurumID" Type="Onerge" />
+      <Association Name="Kurum_MesajAdmin" Member="MesajAdmins" ThisKey="ID" OtherKey="kurumID" Type="MesajAdmin" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Yöneticiler" Member="Yöneticilers">
+    <Type Name="Yöneticiler">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="kullaniciAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Sifre" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="adi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="soyadi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="KurumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Kurum_Yöneticiler" Member="Kurum" ThisKey="KurumID" OtherKey="ID" Type="Kurum" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OnergeTuru" Member="OnergeTurus">
+    <Type Name="OnergeTuru">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="TürAdı" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="OnergeTuru_Onerge" Member="Onerges" ThisKey="ID" OtherKey="TurID" Type="Onerge" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OnergeKonuGrupları" Member="OnergeKonuGruplarıs">
+    <Type Name="OnergeKonuGrupları">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OnergeKonusu" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="KonuSayısı" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="OnergeKonuGrupları_Onerge" Member="Onerges" ThisKey="ID" OtherKey="KonuGrupID" Type="Onerge" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Cevap" Member="Cevaps">
+    <Type Name="Cevap">
+      <Column Name="CevapID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="uzanti" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="durumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="onergeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="kurumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Kurum_Cevap" Member="Kurum" ThisKey="kurumID" OtherKey="ID" Type="Kurum" IsForeignKey="true" />
+      <Association Name="Onerge_Cevap" Member="Onerge" ThisKey="onergeID" OtherKey="ID" Type="Onerge" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Onerge" Member="Onerges">
+    <Type Name="Onerge">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Donem" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="YasamaYili" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EsasNo" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MilletvekilAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MilletvekilPartisiIli" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="EvrakTarihi" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="OnergeKonusu" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Extension" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="kurumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GeldigiKurumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KullanıcıID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="durumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="milletvekiliID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TurID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="KonuGrupID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="BitisTarihi" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="Onerge_Mesaj" Member="Mesajs" ThisKey="ID" OtherKey="onergeID" Type="Mesaj" />
+      <Association Name="Onerge_Cevap" Member="Cevaps" ThisKey="ID" OtherKey="onergeID" Type="Cevap" />
+      <Association Name="Onerge_MesajAdmin" Member="MesajAdmins" ThisKey="ID" OtherKey="onergeID" Type="MesajAdmin" />
+      <Association Name="Durum_Onerge" Member="Durum" ThisKey="durumID" OtherKey="ID" Type="Durum" IsForeignKey="true" />
+      <Association Name="GKurum_Onerge" Member="GKurum" ThisKey="GeldigiKurumID" OtherKey="ID" Type="GKurum" IsForeignKey="true" />
+      <Association Name="Kurum_Onerge" Member="Kurum" ThisKey="kurumID" OtherKey="ID" Type="Kurum" IsForeignKey="true" />
+      <Association Name="OnergeKonuGrupları_Onerge" Member="OnergeKonuGrupları" ThisKey="KonuGrupID" OtherKey="ID" Type="OnergeKonuGrupları" IsForeignKey="true" />
+      <Association Name="OnergeTuru_Onerge" Member="OnergeTuru" ThisKey="TurID" OtherKey="ID" Type="OnergeTuru" IsForeignKey="true" />
+      <Association Name="MilletVekili_Onerge" Member="MilletVekili" ThisKey="milletvekiliID" OtherKey="ID" Type="MilletVekili" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MilletVekili" Member="MilletVekilis">
+    <Type Name="MilletVekili">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="milletvekiliAdı" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="sayac" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="partisi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ili" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="MilletVekili_Onerge" Member="Onerges" ThisKey="ID" OtherKey="milletvekiliID" Type="Onerge" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MesajAdmin" Member="MesajAdmins">
+    <Type Name="MesajAdmin">
+      <Column Name="IDM" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="mesajKonusu" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="kurumID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="onergeID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="okunma" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Kurum_MesajAdmin" Member="Kurum" ThisKey="kurumID" OtherKey="ID" Type="Kurum" IsForeignKey="true" />
+      <Association Name="Onerge_MesajAdmin" Member="Onerge" ThisKey="onergeID" OtherKey="ID" Type="Onerge" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

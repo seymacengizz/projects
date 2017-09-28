@@ -1,0 +1,140 @@
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.dll.config
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.pdb
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Net.Http.Formatting.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Helpers.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.WebHost.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Mvc.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Razor.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Razor.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Net.Http.Formatting.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Helpers.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.WebHost.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Mvc.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Razor.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Razor.xml
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.dll
+C:\Users\pc\Desktop\Yeni klasör\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.pdb
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.dll.config
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.pdb
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Net.Http.Formatting.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Helpers.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.WebHost.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Mvc.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Razor.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Razor.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Net.Http.Formatting.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Helpers.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.WebHost.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Mvc.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Razor.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Razor.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.pdb
+C:\Users\pc\Desktop\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.pdb
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.dll
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.pdb
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.pdb
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.xml
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.pdb
+C:\Users\pc\Desktop\Bakanlık_Staj\SoruOnergesiProjesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.dll.config
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.pdb
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Microsoft.Web.Infrastructure.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Newtonsoft.Json.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Net.Http.Formatting.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Helpers.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.WebHost.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Mvc.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Razor.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Deployment.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Razor.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.pdb
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.pdb
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.pdb
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Newtonsoft.Json.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Net.Http.Formatting.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Helpers.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.WebHost.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Mvc.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Razor.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Deployment.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Razor.xml
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.dll
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.pdb
+E:\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.csprojResolveAssemblyReference.cache
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.dll.config
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\SoruOnergeleriTakipSistemiCalısma.pdb
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Microsoft.Web.Infrastructure.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Newtonsoft.Json.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Net.Http.Formatting.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Helpers.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.WebHost.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Mvc.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Razor.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Deployment.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Razor.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.pdb
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.pdb
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Common.Logging.Core.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.pdb
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Quartz.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\Newtonsoft.Json.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Net.Http.Formatting.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Helpers.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Http.WebHost.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Mvc.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.Razor.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Deployment.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\bin\System.Web.WebPages.Razor.xml
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.csprojResolveAssemblyReference.cache
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.dll
+E:\4.Sınıf\AAA.Projeler\RepoProjeler-master\RepoProjeler-master\SoruOnergesi\SoruOnergeleriTakipSistemiCalısma\SoruOnergeleriTakipSistemiCalısma\obj\Debug\SoruOnergeleriTakipSistemiCalısma.pdb
